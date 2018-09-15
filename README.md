@@ -1,20 +1,14 @@
 # InstaClone
 
-Instagram Clone built with React Native.
+Blitter Similar Demo Clone built with React Native.
 
 <br/>
-
-![screenshot](./screenshot.gif)
 
 ## Get Started
 
 ```sh
-$ git clone https://github.com/saitoxu/InstaClone.git
-$ cd InstaClone
+$ git clone https://github.com/HelpPal/Blitter-Similar-Demo
+$ cd Blitter-Similar-Demo
 $ yarn install
 $ react-native run-ios
 ```
-
-## License
-
-MIT
