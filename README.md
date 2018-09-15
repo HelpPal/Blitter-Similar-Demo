@@ -1,4 +1,4 @@
-# InstaClone
+# Blitter Similar Demo
 
 Blitter Similar Demo Clone built with React Native.
 
